@@ -55,3 +55,5 @@ for index, row in latlon_point.iterrows():
 
 m.save('output/geophoto_map.html')
 latlon_point.to_csv('output/latlon_geophoto.csv')
+
+#comm
